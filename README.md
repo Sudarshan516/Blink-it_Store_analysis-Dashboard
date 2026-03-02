@@ -20,3 +20,4 @@ DAX Calculations
 Dashboard Lay outing
 Charts Development and Formatting
 # Dashboard
+<a href = "https://github.com/Sudarshan516/Blink-it_Store_analysis-Dashboard/blob/main/Screenshot%202026-03-02%20220702.png"> View Dashboard</a>
