@@ -21,3 +21,5 @@ Dashboard Lay outing
 Charts Development and Formatting
 # Dashboard
 <a href = "https://github.com/Sudarshan516/Blink-it_Store_analysis-Dashboard/blob/main/Screenshot%202026-03-02%20220702.png"> View Dashboard</a>
+<img width="1235" height="727" alt="Screenshot 2026-03-02 220702" src="https://github.com/user-attachments/assets/6fd60af8-0dac-4753-ac8d-4441a7645fc1" />
+
